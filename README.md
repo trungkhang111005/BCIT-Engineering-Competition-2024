@@ -108,7 +108,6 @@ Penalties were applied for dropped rescues, collisions, or exceeding time limits
 
 ## Presentation Video
 
-Here is a placeholder for the video link and thumbnail image of the presentation:
 
 [![Presentation Thumbnail](images/thumbnail.png)](https://youtu.be/TrNpwvOBCMM)
 
@@ -128,6 +127,6 @@ While the design performed well in the competition, I have identified areas for 
 
 ## Acknowledgments
 
-Special thanks to the BCIT Engineering Competition organizers, my teammates, and the mentors who supported this event. Their efforts made this an incredible learning opportunity.
+Special thanks to the BCIT Engineering Competition organizers, my teammates (Ken, Harry), and the mentors (James) who supported this event. Their efforts made this an incredible learning opportunity.
 
 ---
