@@ -25,6 +25,8 @@ The main objective of this competition was to address the challenge of high-rise
 
 We had a time limit of **2 hours and 45 minutes** to brainstorm, build, and test the device. Teams were provided virtual currency ("BEC Bucks") to "purchase" materials from a shop. My approach leveraged a delta robot configuration for its speed and precision, combined with industrial crane-like stability for extended reach.
 
+<img src="images/omron-delta.png" alt="Image description" width="500" />       <img src="images/crane.png" alt="Image description" width="500" />
+
 ---
 
 ## Design Details
@@ -108,7 +110,6 @@ Penalties were applied for dropped rescues, collisions, or exceeding time limits
 
 ## Presentation Video
 
-Here is a placeholder for the video link and thumbnail image of the presentation:
 
 [![Presentation Thumbnail](images/thumbnail.png)](https://youtu.be/TrNpwvOBCMM)
 
@@ -128,6 +129,6 @@ While the design performed well in the competition, I have identified areas for 
 
 ## Acknowledgments
 
-Special thanks to the BCIT Engineering Competition organizers, my teammates, and the mentors who supported this event. Their efforts made this an incredible learning opportunity.
+Special thanks to the BCIT Engineering Competition organizers, my teammates (Ken, Harry), and the mentors (James) who supported this event. Their efforts made this an incredible learning opportunity.
 
 ---
