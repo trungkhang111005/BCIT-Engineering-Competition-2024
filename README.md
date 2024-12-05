@@ -73,6 +73,8 @@ Teams were allocated **250 BEC Bucks** to buy materials. The following component
 
 ## Machine Highlights
 
+<img src="images/pose.JPG" alt="Image description" width="300" />    
+
 ### 1. Delta Robot Gripper
 - The gripper mechanism, inspired by a delta robot, featured:
   - **Straws** as flexible arms for precise and lightweight motion.
