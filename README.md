@@ -25,7 +25,7 @@ The main objective of this competition was to address the challenge of high-rise
 
 We had a time limit of **2 hours and 45 minutes** to brainstorm, build, and test the device. Teams were provided virtual currency ("BEC Bucks") to "purchase" materials from a shop. My approach leveraged a delta robot configuration for its speed and precision, combined with industrial crane-like stability for extended reach.
 
-<img src="images/omron-delta.png" alt="Image description" width="500" />       <img src="images/crane.png" alt="Image description" width="500" />
+<img src="images/omron-delta.png" alt="Image description" width="250" />       <img src="images/crane.png" alt="Image description" width="270" />
 
 ---
 
@@ -73,7 +73,7 @@ Teams were allocated **250 BEC Bucks** to buy materials. The following component
 
 ## Machine Highlights
 
-<img src="images/pose.JPG" alt="Image description" width="300" />    
+<img src="images/pose.JPG" alt="Image description" width="200" />    
 
 ### 1. Delta Robot Gripper
 - The gripper mechanism, inspired by a delta robot, featured:
