@@ -1,4 +1,4 @@
-# BCIT Engineering Competition 2024 - Junior Design Project
+# BCIT Engineering Competition 2024 - Junior Design
 
 This repository showcases my participation in the **BCIT Engineering Competition 2024 (Junior Design)**. The challenge was to design and build a mechanism capable of rescuing a person ("Fed") from a high-rise building within a strict time limit of 2 hours and 45 minutes. My design took inspiration from industrial cranes and incorporated a 2D delta robot configuration for a fast, secure, and efficient rescue mechanism.
 
